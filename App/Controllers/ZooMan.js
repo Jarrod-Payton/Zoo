@@ -15,7 +15,7 @@ let HumanTestPod = {
   Hal: new Human('Hal', 160, 'White', 'Pilot', 'Fancy Ring'),
   Clark: new Human('Clark', 220, 'Lonely', 'Alien'),
   Jack: new Human('Jack', 300, 'Couch Potato', 'Xbox is better than PlayStation', '360 NoScope'),
-  Mark: new Human('Mark', 200, 'Dark', 'Dark', 'Hero')
+  Mark: new Human('Mark', 100, 'Dark', 'Dark', 'Hero')
 }
 
 export class ZooMan {
